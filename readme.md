@@ -34,5 +34,6 @@
 > 
 > Metre en place un système de points en fonction de la distance entre la note et le bas de la colonne au moment du clique
 > 
+> limite le nombre de note par colonne (pour éviter d'avoir trop de note )
 > Autre chose ...
 >
